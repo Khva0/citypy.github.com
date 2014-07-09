@@ -9,7 +9,7 @@ title: Питон в твоем городе
  * kyiv.py: Информация на [PyconUA](http://ua.pycon.org);
  * odessa.py: Михаил Кашкин проводит дринкапы. Его [блог](http://www.vurt.ru/);
  * kharkiv.py: twitter [@kharkivpy](https://twitter.com/kharkivpy), [Официальный сайт](http://kharkivpy.org.ua/);
- * lviv.py;
+ * lviv.py: [Официальный сайт](http://lvivpy.org.ua/);
  * ekb.py: [Официальный сайт](http://ekbpy.ru/);
  * samara.py: twitter [@samarapy](https://twitter.com/SamaraPy), [Официальный сайт](http://samarapy.ru).
  * IvPy: Мероприятие в Иваново, Константинов Евгений [Официальный сайт](http://ivpy.ru/)
